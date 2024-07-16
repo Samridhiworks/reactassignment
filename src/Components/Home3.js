@@ -17,8 +17,8 @@ const Home3 = () => {
 
           <div className='bars'>
             <div className='bar1-new' ></div>
-            <div className='bar2-new' ></div>
-            <div className='bar3'></div>
+            <div className='bar2-new' style={{background:"#c2c2c2"}} ></div>
+            <div className='bar3' style={{background:"#fff"}}></div>
           </div>
           <div className='progress-img'>
             <Link to='/login'>
